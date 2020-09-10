@@ -127,10 +127,10 @@ search:
     type: insight
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
-comment:
-    type: changyan
-    app_id: cyv2YfzKo
-    conf: prod_554d8b557bb46eff612fbd7892a9728f
+#comment:
+    #type: changyan
+    #app_id: cyv2YfzKo
+    #conf: prod_554d8b557bb46eff612fbd7892a9728f
     #Disqus shortname
     #shortname: ''
 # Donate plugin configurations
@@ -170,10 +170,10 @@ donates:
         qrcode: '/img/wechat.jpg'
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
-share:
-    type: addtoany
+#share:
+    #type: addtoany
     # URL to the ShareThis share plugin script
-    install_url: ''
+    #install_url: ''
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
