@@ -237,16 +237,17 @@ widgets:
         # Names and URLs of the sites
         links:
             公众号: 'https://mp.weixin.qq.com/s/jgqH-kDDtkWDhvSceK202A'
-            百家号: 'https://mo.mbd.baidu.com/r/9j36B0k2WI?f=cp&u=b7fd3b0159d77eaf'
+            百家号: 'https://baijiahao.baidu.com/u?app_id=1564816224202053'
             头条号: 'https://www.toutiao.com/c/user/token/MS4wLjABAAAAJKmr0jvEAI16bB4AFBSWf8e3gPMXffUWoV7YI3AnNqk/'
-            网易号: 
-            企鹅号:
-            趣头条:
-            大鱼号:
-            一点号:
-            微博:
-            搜狗号:
-            搜狐号:
+            网易号: 'https://c.m.163.com/news/sub/T1490327604626.html?spss=newsapp'
+            企鹅号: 'https://xw.qq.com/m/author?id=5590953'
+            知乎: 'https://www.zhihu.com/people/mo-luo-18-50'
+            趣头条: 'http://art.ncpwdb.cn/detail/share/1573863/15738624/157386235/1573862349.html?content_id=1573862349&key=3cdavn1WFnjxce4hu0tOQ1PVL3FX5qWDbRGLxrYYNxWTBMPrz7yyHKk7JMogpocWXls7I-QkGrB0q8yvxA58R1LrkHc5K3B_ScjTpb37syLoYEnzNnkRIQYNhNk9WOw2yEIrQ632yaFEHWnPht5WKJQVuFdxSVdJSsnzSQArsqzUYZI&pv_id=&cid=22&fr=1&i=2130706433&shareContentType=1'
+            大鱼号: 'http://a.mp.uc.cn/media.html?mid=51c4a8b5f6df489a927e469abf3b0766&client=ucweb&uc_param_str=frdnsnpfvecpntnwprdsssnikt&uc_biz_str=S:custom%7CC:iflow_ncmt'
+            一点号: 'https://www.yidianzixun.com/article/0QhA2To0?s=&appid=pro'
+            微博: 'https://weibo.com/u/3764417984'
+            搜狗号: 'http://sa.sogou.com/sgsearch/sgs_tc_news.php?req=ew4-rCY1q6BHRfl9PH15XPODs_-Aj7jZYEMzh-CZyfk=&user_type=1'
+            搜狐号: 'https://www.yidianzixun.com/article/0QhA2To0?s=&appid=pro'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
