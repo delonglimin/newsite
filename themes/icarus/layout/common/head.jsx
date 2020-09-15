@@ -110,6 +110,7 @@ module.exports = class extends Component {
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
             {meta && meta.length ? <MetaTags meta={meta} /> : null}
             <meta name="google-site-verification" content="rHMdhsGHMKnJ10_YjcKzww0jAZVZn6lZjGjxOgJSORk" />
+            <meta name="sogou_site_verification" content="oPmfNKjVMn"/>
             <title>{getPageTitle(page, config.title, helper)}</title>
 
             {typeof open_graph === 'object' && open_graph !== null ? <OpenGraph
