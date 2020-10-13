@@ -248,6 +248,7 @@ widgets:
             微博: 'https://weibo.com/u/3764417984'
             搜狗号: 'http://sa.sogou.com/sgsearch/sgs_tc_news.php?req=ew4-rCY1q6BHRfl9PH15XPODs_-Aj7jZYEMzh-CZyfk=&user_type=1'
             搜狐号: 'https://m.sohu.com/media/823737?spm=smwp.content.author-info.1.159972721022482vojYs'
+            新浪看点: 'http://k.sina.com.cn/mediaDocList.d.html?uid=3764417984'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
