@@ -11,6 +11,9 @@
   "hexo": {
     "version": "5.1.1"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "bulma-stylus": "^0.8.0",
     "hexo": "^5.0.0",
